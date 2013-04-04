@@ -1,0 +1,40 @@
+Participantes:
+    Allan
+    Bruno
+    Cadu
+    Cesar Castro
+    Cesar Frias
+    Elias
+    Mara
+    Samara
+
+
+=)
+    Problema simples (pessoas não TI presentes) +++
+    Mais pessoas não TI +++
+    Pessoas novas +++
+    Pessoas de fora +++
+    Linguagem nova +++
+    Terminamos o problema +++
+    Pessoas conhecendo T.D.D +++
+    Chocolate de páscoa do Botafogo no Vasco (WTF?)+
+    Mara vendo alguma coisa de programação+
+
+
+=(
+    "Flexibilização" da dinâmica no final +
+    FGV dizendo que vinha mas não apareceram
+    Presentes não programaram +
+    Lua (fracos)
+    Ficaram dúvidas quanto a conceitos de programação +
+    Pessoas desistiram porque não entenderam *nada*. +
+    Pessoas que não gostaram Lua
+    Atraso para o início
+    Trabalho para montar o ambiente
+
+
+=|
+    Outras linguagens
+    Estudar mgunit para Lua
+    Explicar mais os conceitos
+    Comida + Bebida

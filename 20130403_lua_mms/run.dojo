@@ -1,0 +1,1 @@
+busted -o plain_terminal mms_spec.lua

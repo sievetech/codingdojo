@@ -1,4 +1,5 @@
-codingdojo
+Coding Dojo @ Sieve
 ==========
 
-Códigos do Coding Dojo
+Códigos criados no Coding Dojo da Sieve.
+
